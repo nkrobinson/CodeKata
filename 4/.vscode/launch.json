@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Weather2",
+            "request": "launch",
+            "mainClass": "Weather2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Football2",
+            "request": "launch",
+            "mainClass": "Football2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Football",
+            "request": "launch",
+            "mainClass": "Football"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Weather",
+            "request": "launch",
+            "mainClass": "Weather"
+        }
+    ]
+}
