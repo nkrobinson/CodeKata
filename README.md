@@ -1,0 +1,2 @@
+# CodeKata
+Exercises For CodeKata
